@@ -1,0 +1,18 @@
+{
+  "name": "nizmo",
+  "version": "1.0.0",
+  "description": "POV: A cute cartoon robot screams at you over Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xzyckon/Nizmo-Discord-Bot"
+  },
+  "author": "Xzyckon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
